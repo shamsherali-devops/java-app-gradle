@@ -47,6 +47,3 @@ java-app-gradle/
 2. **Push** any change to trigger the pipeline  
 3. **Watch** GitHub Actions build & deploy your app as a Docker image  
 
----
-
-Let me know if you'd like to add badges (build status, Docker pulls, etc.) or a LinkedIn post to show this off — I’ve got you covered.
